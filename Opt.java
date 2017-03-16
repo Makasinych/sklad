@@ -5,7 +5,7 @@ import javax.swing.JFrame;
 
 @SuppressWarnings("serial")
 public class Opt extends JFrame {
-	//запуск программы	     
+	//запуск программы 1	     
      public static void main(String[] args) throws IOException {
               	 
          			CreateWin fr = new CreateWin();
